@@ -2148,3 +2148,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.29-18.43.22:161][561]Cmd: EDIT PASTE
 [2022.05.29-18.43.29:225][352]Cmd: EDIT COPY
 [2022.05.29-18.43.29:592][395]Cmd: EDIT PASTE
+[2022.05.29-18.44.10:802][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Truck_Box)
+[2022.05.29-18.44.22:545][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor71)
+[2022.05.29-18.44.26:575][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor76)
+[2022.05.29-18.44.59:845][510]LogActorFactory: Actor Factory created Plane
+[2022.05.29-18.45.00:263][552]LogActorFactory: Actor Factory created Plane
+[2022.05.29-18.45.15:281][341]Cmd: EDIT COPY
+[2022.05.29-18.45.15:506][368]Cmd: EDIT PASTE
+[2022.05.29-18.45.20:484][956]Cmd: EDIT COPY
+[2022.05.29-18.45.20:660][977]Cmd: EDIT PASTE
+[2022.05.29-18.45.23:164][273]Cmd: EDIT COPY
+[2022.05.29-18.45.23:406][302]Cmd: EDIT PASTE
+[2022.05.29-18.45.25:210][514]Cmd: EDIT COPY
+[2022.05.29-18.45.25:435][541]Cmd: EDIT PASTE
+[2022.05.29-18.45.31:476][261]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2022.05.29-18.45.32:064][329]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane3)
+[2022.05.29-18.45.32:701][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane2)
+[2022.05.29-18.45.33:512][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2022.05.29-18.45.34:799][650]Cmd: EDIT COPY
+[2022.05.29-18.45.34:987][672]Cmd: EDIT PASTE
+[2022.05.29-18.45.45:635][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2022.05.29-18.45.48:611][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2022.05.29-18.45.56:904][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.05.29-18.45.58:521][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2022.05.29-18.45.59:890][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor18)
+[2022.05.29-18.46.00:730][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor18)
+[2022.05.29-18.46.01:101][767]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.05.29-18.46.01:766][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.05.29-18.46.04:275][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane7)
+[2022.05.29-18.46.04:930][215]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane8)
+[2022.05.29-18.46.06:868][443]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane9)
+[2022.05.29-18.46.07:433][508]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane10)
+[2022.05.29-18.46.15:411][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2022.05.29-18.46.16:308][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2022.05.29-18.46.16:894][632]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane3)
+[2022.05.29-18.46.17:425][693]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane2)
+[2022.05.29-18.46.18:112][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane)
+[2022.05.29-18.46.18:924][868]Cmd: DELETE
+[2022.05.29-18.46.18:924][868]Cmd: ACTOR DELETE
+[2022.05.29-18.46.18:931][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.46.18:931][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.46.18:931][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.46.18:931][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.46.18:931][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.46.18:937][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.29-18.46.18:939][868]LogEditorActor: Deleted 5 Actors (0.014 secs)
+[2022.05.29-18.46.29:927][180]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2022.05.29-18.46.43:457][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2022.05.29-18.46.44:391][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane9)
+[2022.05.29-18.46.45:205][834]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane8)
+[2022.05.29-18.46.45:681][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane7)
+[2022.05.29-18.46.46:871][ 27]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor19)
+[2022.05.29-18.46.49:272][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor19)
+[2022.05.29-18.46.50:037][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.05.29-18.46.50:789][486]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane7)
+[2022.05.29-18.46.51:687][591]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane8)
+[2022.05.29-18.46.52:226][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane9)
+[2022.05.29-18.46.53:366][787]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane10)
+[2022.05.29-18.47.10:949][790]Cmd: EDIT COPY
+[2022.05.29-18.47.11:300][832]Cmd: EDIT PASTE
+[2022.05.29-18.47.22:634][164]Cmd: EDIT COPY
+[2022.05.29-18.47.22:848][189]Cmd: EDIT PASTE
+[2022.05.29-18.47.27:782][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane11)
+[2022.05.29-18.47.29:399][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane12)
+[2022.05.29-18.47.30:135][ 38]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor19)
+[2022.05.29-18.47.32:189][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor17)
+[2022.05.29-18.47.33:016][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane12)
+[2022.05.29-18.47.33:905][471]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane11)
+[2022.05.29-18.47.34:717][564]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane20)
+[2022.05.29-18.47.35:377][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane19)
+[2022.05.29-18.47.36:021][712]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane18)
+[2022.05.29-18.47.36:661][784]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane17)
+[2022.05.29-18.47.37:689][903]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane16)
+[2022.05.29-18.47.38:777][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane13)
+[2022.05.29-18.47.39:992][170]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane15)
+[2022.05.29-18.47.40:829][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane14)
+[2022.05.29-18.47.42:791][497]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane10)
+[2022.05.29-18.47.43:488][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane9)
+[2022.05.29-18.47.44:269][665]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane8)
+[2022.05.29-18.47.44:860][731]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane7)
+[2022.05.29-18.47.45:486][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane6)
+[2022.05.29-18.47.53:584][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2022.05.29-18.47.56:787][130]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane9)
+[2022.05.29-18.47.57:865][255]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane8)
+[2022.05.29-18.47.58:694][350]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane7)
+[2022.05.29-18.47.59:340][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane6)
+[2022.05.29-18.47.59:859][481]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane15)
+[2022.05.29-18.48.00:496][553]Cmd: EDIT COPY
+[2022.05.29-18.48.00:754][584]Cmd: EDIT PASTE
+[2022.05.29-18.48.04:899][ 69]Cmd: EDIT COPY
+[2022.05.29-18.48.06:073][210]Cmd: EDIT PASTE
+[2022.05.29-18.48.14:357][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane29)
+[2022.05.29-18.48.15:198][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane30)
+[2022.05.29-18.48.16:478][435]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane31)
+[2022.05.29-18.48.17:396][541]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane29)
+[2022.05.29-18.48.19:596][658]LogSlate: Window 'Message' being destroyed
+[2022.05.29-18.48.19:601][658]Message dialog closed, result: No, title: Message, text: There is more than one referenced asset in the selection. Do you want to open them all for editing?
+[2022.05.29-18.48.31:219][ 38]Cmd: EDIT COPY
+[2022.05.29-18.48.31:403][ 60]Cmd: EDIT PASTE
+[2022.05.29-18.48.44:219][563]Cmd: EDIT COPY
+[2022.05.29-18.48.44:461][592]Cmd: EDIT PASTE
+[2022.05.29-18.48.57:210][104]Cmd: EDIT COPY
+[2022.05.29-18.48.57:465][134]Cmd: EDIT PASTE
+[2022.05.29-18.49.06:322][185]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane36)
+[2022.05.29-18.49.07:205][286]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane37)
+[2022.05.29-18.49.08:031][381]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane38)
+[2022.05.29-18.49.09:499][552]Cmd: EDIT COPY
+[2022.05.29-18.49.09:699][576]Cmd: EDIT PASTE
+[2022.05.29-18.49.31:462][148]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane41)
+[2022.05.29-18.49.32:210][233]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane40)
+[2022.05.29-18.49.33:308][360]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor78)
+[2022.05.29-18.49.35:778][650]Cmd: TRANSACTION UNDO
+[2022.05.29-18.49.35:778][650]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-18.49.35:793][650]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 8409049671E0F7C9A9A66DFA15552A543A4CBD32), compiling. 
+[2022.05.29-18.49.35:801][650]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.29-18.49.35:902][652]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.29-18.49.35:902][652]LogShaderCompilers: Display: Total job queries 388, among them cache hits 18 (4.64%)
+[2022.05.29-18.49.35:902][652]LogShaderCompilers: Display: Tracking 229 distinct input hashes that result in 102 distinct outputs (44.54%)
+[2022.05.29-18.49.35:902][652]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.05.29-18.49.35:902][652]LogShaderCompilers: Display: ================================================
+[2022.05.29-18.49.35:935][653]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.29-18.49.35:935][653]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.05.29-18.49.35:935][653]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.05.29-18.49.35:935][653]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.05.29-18.49.35:935][653]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.29-18.49.38:623][933]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane39)
+[2022.05.29-18.49.39:814][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane37)
+[2022.05.29-18.49.44:312][598]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane38)
+[2022.05.29-18.49.47:967][ 25]Cmd: EDIT COPY
+[2022.05.29-18.49.48:192][ 52]Cmd: EDIT PASTE
+[2022.05.29-18.50.12:885][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane58)
+[2022.05.29-18.50.13:700][ 68]Cmd: DELETE
+[2022.05.29-18.50.13:700][ 68]Cmd: ACTOR DELETE
+[2022.05.29-18.50.13:707][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.50.13:714][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.29-18.50.13:715][ 68]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.05.29-18.50.14:340][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor83)
+[2022.05.29-18.50.14:765][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane57)
+[2022.05.29-18.50.16:121][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane56)
+[2022.05.29-18.50.16:678][408]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane55)
+[2022.05.29-18.50.19:718][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane54)
+[2022.05.29-18.50.20:308][834]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane53)
+[2022.05.29-18.50.21:227][940]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane52)
+[2022.05.29-18.50.27:605][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor80)
+[2022.05.29-18.50.33:293][374]Cmd: EDIT CUT
+[2022.05.29-18.50.33:301][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.50.33:305][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.05.29-18.50.33:306][374]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.05.29-18.50.33:941][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2022.05.29-18.50.34:750][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall13)
+[2022.05.29-18.50.35:184][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane52)
+[2022.05.29-18.50.38:728][ 12]Cmd: EDIT PASTE
+[2022.05.29-18.50.39:668][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane52)
+[2022.05.29-18.50.58:705][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane51)
+[2022.05.29-18.51.08:491][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane50)
+[2022.05.29-18.51.18:733][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane49)
+[2022.05.29-18.51.20:818][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane47)
+[2022.05.29-18.51.23:755][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane46)
+[2022.05.29-18.51.26:416][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane45)
+[2022.05.29-18.51.27:444][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane44)
+[2022.05.29-18.51.33:287][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane45)
+[2022.05.29-18.51.38:425][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane44)
+[2022.05.29-18.51.45:648][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane43)
+[2022.05.29-18.51.54:628][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane42)
+[2022.05.29-18.52.34:690][264]Cmd: EDIT COPY
+[2022.05.29-18.52.34:941][294]Cmd: EDIT PASTE
+[2022.05.29-18.52.56:317][770]Cmd: EDIT COPY
+[2022.05.29-18.52.56:556][798]Cmd: EDIT PASTE
+[2022.05.29-18.53.00:734][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane63)
+[2022.05.29-18.53.02:416][488]Cmd: DELETE
+[2022.05.29-18.53.02:416][488]Cmd: ACTOR DELETE
+[2022.05.29-18.53.02:423][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.53.02:428][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.29-18.53.02:430][488]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.05.29-18.53.03:506][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane62)
+[2022.05.29-18.53.04:088][683]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane61)
+[2022.05.29-18.53.04:654][747]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane60)
+[2022.05.29-18.53.05:988][902]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane59)
+[2022.05.29-18.53.06:712][985]Cmd: EDIT COPY
+[2022.05.29-18.53.06:971][ 16]Cmd: EDIT PASTE
+[2022.05.29-18.53.22:685][882]Cmd: EDIT COPY
+[2022.05.29-18.53.23:003][920]Cmd: EDIT PASTE
+[2022.05.29-18.53.32:630][ 16]Cmd: EDIT COPY
+[2022.05.29-18.53.32:826][ 36]Cmd: EDIT PASTE
+[2022.05.29-18.53.41:539][ 46]Cmd: EDIT COPY
+[2022.05.29-18.53.41:797][ 77]Cmd: EDIT PASTE
+[2022.05.29-18.53.49:295][967]Cmd: EDIT COPY
+[2022.05.29-18.53.49:504][992]Cmd: EDIT PASTE
+[2022.05.29-18.53.58:123][ 10]Cmd: EDIT COPY
+[2022.05.29-18.53.58:323][ 34]Cmd: EDIT PASTE
+[2022.05.29-18.54.08:011][185]Cmd: EDIT COPY
+[2022.05.29-18.54.10:190][445]Cmd: EDIT PASTE
+[2022.05.29-18.54.16:514][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor46)
+[2022.05.29-18.54.17:003][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane87)
+[2022.05.29-18.54.17:595][314]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane88)
+[2022.05.29-18.54.18:731][446]Cmd: EDIT COPY
+[2022.05.29-18.54.18:969][474]Cmd: EDIT PASTE
+[2022.05.29-18.54.23:835][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sidewalk02)
+[2022.05.29-18.54.24:455][116]Cmd: EDIT COPY
+[2022.05.29-18.54.24:686][143]Cmd: EDIT PASTE
+[2022.05.29-18.54.41:835][179]Cmd: EDIT COPY
+[2022.05.29-18.54.42:118][213]Cmd: EDIT PASTE
+[2022.05.29-18.54.48:110][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2022.05.29-18.54.50:068][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sidewalk4)
+[2022.05.29-18.54.59:491][270]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Sidewalk3)
+[2022.05.29-18.55.03:515][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall26)
+[2022.05.29-18.55.06:188][ 60]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall35)
+[2022.05.29-18.55.10:473][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sidewalk4)
+[2022.05.29-18.55.11:699][708]Cmd: DELETE
+[2022.05.29-18.55.11:699][708]Cmd: ACTOR DELETE
+[2022.05.29-18.55.11:706][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-18.55.11:711][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.29-18.55.11:712][708]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.05.29-18.55.23:661][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sidewalk3)
+[2022.05.29-18.55.25:993][401]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sidewalk3)
+[2022.05.29-18.55.26:537][451]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Sidewalk3)
+[2022.05.29-18.55.33:025][207]Cmd: TRANSACTION UNDO
+[2022.05.29-18.55.33:025][207]LogEditorTransaction: Undo Move Actors
+[2022.05.29-18.55.33:026][207]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: B6A97DC1D3D2B01F2139318B21841FE487BD81DD), compiling. 
+[2022.05.29-18.55.33:033][207]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.29-18.55.33:122][209]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.29-18.55.33:122][209]LogShaderCompilers: Display: Total job queries 400, among them cache hits 30 (7.50%)
+[2022.05.29-18.55.33:122][209]LogShaderCompilers: Display: Tracking 229 distinct input hashes that result in 102 distinct outputs (44.54%)
+[2022.05.29-18.55.33:122][209]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.05.29-18.55.33:122][209]LogShaderCompilers: Display: ================================================
+[2022.05.29-18.55.33:145][210]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.05.29-18.55.33:145][210]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2022.05.29-18.55.33:145][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.05.29-18.55.33:145][210]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.05.29-18.55.33:145][210]MaterialEditorStats: Texture samplers: 2/16
+[2022.05.29-18.55.35:716][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.29-18.55.35:863][426]LogSavePackage: Moving 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/FirstPersonExampleMap9D42C2B246E39F289C0E029143683B97.tmp' to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.05.29-18.55.51:168][426]LogSavePackage: Moving 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/FirstPersonExampleMap_BuiltDataDEB8A8BF47B73D4C9DAD2DB4DCCDD749.tmp' to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.05.29-18.55.51:237][426]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-18.55.51:241][426]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.05.29-18.55.51:241][426]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
