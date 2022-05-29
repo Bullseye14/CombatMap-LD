@@ -1980,3 +1980,935 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.29-21.46.49:422][ 49]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.29-21.46.49:422][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.05.29-21.46.49:439][ 49]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.29-21.47.01:635][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.29-21.47.15:158][351]LogMainFrame: Project does not require temp target
+[2022.05.29-21.47.15:196][351]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2022.05.29-21.47.15:956][351]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.05.29-21.47.20:066][351]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/CombatMap_LD.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/CombatMap_LD.uproject -cook -stage -archive -archivedirectory=C:/Users/fcbal/Desktop/Practice2_RafelBrau_PolCasaú_AlbertRobles -package -ue4exe=D:\Unreal\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2022.05.29-21.47.22:762][640]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\CombatMap_LD.uproject
+[2022.05.29-21.47.23:909][737]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.05.29-21.47.23:909][737]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\CombatMap_LD.uproject
+[2022.05.29-21.47.23:985][746]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\Unreal\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.05.29-23.47.23.txt
+[2022.05.29-21.47.24:003][748]UATHelper: Packaging (Windows (64-bit)): Running: D:\Unreal\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\CombatMap_LD.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog=D:\Unreal\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.05.29-23.47.23.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.05.29-21.47.30:449][490]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.05.29-21.47.30:449][490]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.05.29-21.47.30:449][490]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: CombatMap_LD
+[2022.05.29-21.47.55:601][460]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.05.29-21.47.58:134][759]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 16 GB [17111011328 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.29-21.47.58:502][798]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.29-21.47.58:538][802]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.29-21.47.58:544][803]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.29-21.47.58:585][807]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.29-21.47.58:585][807]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.29-21.47.58:609][810]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.29-21.47.58:618][811]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.29-21.47.58:634][813]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.29-21.47.58:643][814]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.29-21.47.58:651][815]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.29-21.47.58:661][816]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.29-21.47.58:661][816]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.29-21.47.58:702][821]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.29-21.47.58:702][821]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.29-21.47.58:726][824]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.29-21.47.58:753][827]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.29-21.47.58:753][827]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.29-21.47.58:760][828]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.29-21.47.58:776][830]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.29-21.47.58:776][830]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.29-21.47.58:802][833]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.29-21.47.58:818][835]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.29-21.47.58:827][836]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.29-21.47.58:827][836]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.29-21.47.58:827][836]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.05.29-21.47.58:902][845]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.29-21.47.59:160][875]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.05.29-21.48.01:486][152]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.29-21.48.04:531][497]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.29-21.48.04:760][523]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fcbal/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.05.29-21.48.04:802][528]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.29-21.48.04:813][529]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/fcbal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=168.81MBs, RandomWriteSpeed=117.07MBs. Assigned SpeedClass 'Local'
+[2022.05.29-21.48.13:654][568]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.29-21.48.13:654][568]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.29-21.48.17:043][970]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.29-21.48.17:043][970]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.05.29-21.48.17:044][970]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.05.29-21.48.19:266][232]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.05.29-21.48.19:282][234]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Inisetting is different for  Game /Script/UnrealEd.ProjectPackagingSettings StagingDirectory 0, value (Path="C:/Users/fcbal/Desktop/Practice2_RafelBrau_PolCasaú_AlbertRobles") != (Path="C/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD") invalidating cook
+[2022.05.29-21.48.19:282][234]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Game:/Script/UnrealEd.ProjectPackagingSettings
+[2022.05.29-21.48.19:282][234]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.05.29-21.48.19:300][236]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.025 seconds for platforms WindowsNoEditor
+[2022.05.29-21.48.20:391][354]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.05.29-21.48.20:391][354]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.05.29-21.48.20:391][354]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.05.29-21.48.20:391][354]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.05.29-21.48.20:391][354]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.05.29-21.48.20:402][355]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.05.29-21.48.20:629][381]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 1839 Total 1839
+[2022.05.29-21.48.20:629][381]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=216, VirtualMemory=571MiB
+[2022.05.29-21.48.21:411][461]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 1985 Total 2035
+[2022.05.29-21.48.23:034][635]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 218 Packages Remain 1864 Total 2082
+[2022.05.29-21.48.25:647][928]UATHelper: Packaging (Windows (64-bit)):   LogSkeletalMesh: Display: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Skeletons\SK_Hatchback.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.05.29-21.48.25:711][935]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Hatchback\BP_Hatchback.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.25:711][935]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Hatchback\BP_Hatchback.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.25:711][935]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Hatchback\BP_Hatchback.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.25:711][935]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Hatchback\BP_Hatchback.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.26:115][981]UATHelper: Packaging (Windows (64-bit)):   LogSkeletalMesh: Display: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Skeletons\SK_SUV.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.05.29-21.48.26:210][992]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SUV\BP_SUV.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.26:210][992]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SUV\BP_SUV.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.26:210][992]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SUV\BP_SUV.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.26:210][992]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SUV\BP_SUV.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.26:452][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 291 Packages Remain 1791 Total 2082
+[2022.05.29-21.48.27:657][145]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 1764 Total 2082
+[2022.05.29-21.48.29:644][345]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 368 Packages Remain 1714 Total 2082
+[2022.05.29-21.48.34:382][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture74D003FF4B7EC5942BAFA9ABB8AB144F (BGRA8, 128X128)
+[2022.05.29-21.48.34:382][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture6286929347F638C40E4D288E9158C0BA (BGRA8, 128X128)
+[2022.05.29-21.48.34:382][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture2654F19944C17C5A3AB004BE47C052F9 (BGRA8, 128X128)
+[2022.05.29-21.48.34:382][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture46C5A9774F9097E1777E01948744F3D0 (BGRA8, 128X128)
+[2022.05.29-21.48.34:382][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture4493496E443E219A9FFD8DBD1D649290 (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture56F6D7034E78DF85693B67A06E269DFF (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture9517C43C46B235B4CBA0BA978F197981 (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureC5F1BF294E260EDA68CFF3964708C10A (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureB233CFF54140FD9BFCEACEA4EC709A1E (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture8368F24E4711CFD4AF15A5B259A5572B (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture221C15814859344855B4BCABCE17826B (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture121A5B5E45AE0CF0FBCC1791A4B0B02C (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureADF9345046D486ED2E567280DF21ACB6 (BGRA8, 128X128)
+[2022.05.29-21.48.34:384][822]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureEE88FC754D005BEFCB4D26A8CF5DE660 (BGRA8, 128X128)
+[2022.05.29-21.48.34:444][827]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 468 Packages Remain 1614 Total 2082
+[2022.05.29-21.48.35:542][940]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 518 Packages Remain 1566 Total 2084
+[2022.05.29-21.48.40:887][394]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 647 Packages Remain 1437 Total 2084
+[2022.05.29-21.48.45:662][900]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 668 Packages Remain 1416 Total 2084
+[2022.05.29-21.48.48:884][217]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 696 Packages Remain 1388 Total 2084
+[2022.05.29-21.48.49:010][226]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 712 Packages Remain 1372 Total 2084
+[2022.05.29-21.48.52:222][521]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:251][523]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:251][523]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:251][523]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:251][523]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:251][523]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:276][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:277][526]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:277][526]PackagingResults: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:277][526]PackagingResults: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:341][534]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:341][534]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]PackagingResults: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:397][540]PackagingResults: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:421][543]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:421][543]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.52:706][575]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.48.55:546][896]UATHelper: Packaging (Windows (64-bit)):   LogSkeletalMesh: Display: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Skeletons\SK_SportsCar.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.05.29-21.48.55:901][935]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SportsCar\BP_SportsCar.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.55:901][935]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SportsCar\BP_SportsCar.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.55:902][935]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SportsCar\BP_SportsCar.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.55:902][935]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SportsCar\BP_SportsCar.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.56:016][948]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Pickup\BP_Pickup.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.56:016][948]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Pickup\BP_Pickup.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.56:016][948]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Pickup\BP_Pickup.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.56:016][948]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Pickup\BP_Pickup.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.56:089][957]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\BoxTruck\BP_BoxTruck.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.56:089][957]UATHelper: Packaging (Windows (64-bit)):   LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\BoxTruck\BP_BoxTruck.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.56:089][957]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\BoxTruck\BP_BoxTruck.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.48.56:090][957]PackagingResults: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\BoxTruck\BP_BoxTruck.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.48.56:450][997]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 752 Packages Remain 1332 Total 2084
+[2022.05.29-21.48.56:450][997]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=1041, VirtualMemory=1773MiB
+[2022.05.29-21.48.57:335][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 802 Packages Remain 1282 Total 2084
+[2022.05.29-21.48.57:945][153]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture464AF197462A892FAA4CACB68AC17907 (BGRA8, 128X128)
+[2022.05.29-21.48.57:945][153]UATHelper: Packaging (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTexture138C851E4B263ADBE7164988D100AD93 (BGRA8, 128X128)
+[2022.05.29-21.48.57:956][154]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:957][154]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:965][155]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:965][155]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:965][155]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:965][155]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:976][156]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:976][156]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:976][156]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.57:976][156]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:324][195]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:324][195]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:324][195]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:324][195]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:324][195]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:324][195]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:333][196]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:333][196]UATHelper: Packaging (Windows (64-bit)):   LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:333][196]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.58:333][196]PackagingResults: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.48.59:280][299]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 902 Packages Remain 1184 Total 2086
+[2022.05.29-21.49.02:642][629]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1104 Packages Remain 982 Total 2086
+[2022.05.29-21.49.03:001][657]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1188 Packages Remain 898 Total 2086
+[2022.05.29-21.49.19:601][498]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1240 Packages Remain 846 Total 2086
+[2022.05.29-21.49.21:041][605]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 1889 Packages Remain 197 Total 2086
+[2022.05.29-21.49.22:238][697]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 2086 Packages Remain 0 Total 2086
+[2022.05.29-21.49.22:238][697]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=2088, VirtualMemory=2007MiB
+[2022.05.29-21.49.22:248][698]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.05.29-21.49.22:251][698]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.05.29-21.49.22:259][699]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.05.29-21.49.22:442][718]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.05.29-21.49.22:442][718]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.05.29-21.49.22:442][718]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.05.29-21.49.22:613][738]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.05.29-21.49.22:684][746]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 2136, size is 705.84kb
+[2022.05.29-21.49.22:684][746]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.05.29-21.49.22:929][774]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.05.29-21.49.22:929][774]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'CombatMap_LD' (PCD3D_SM5) Stats:
+[2022.05.29-21.49.22:929][774]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.05.29-21.49.22:939][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 196, Unique Shadermaps: 161 (82.14%)
+[2022.05.29-21.49.22:939][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 6946, Unique Shaders: 4099 (59.01%)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 14.11mb, Unique Shaders Size: 10.34mb (73.33%)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 17
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     92, 76, 76, 32, 28, 27, 26, 25, 25, 25
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/Shaders/PCD3D_SM5/ShaderDebug-CombatMap_LD-PCD3D_SM5/Dump.txt'
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 60.803019s total time 65.909012
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 8316 MiB Peak Used physical 6934 MiB
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.025s (1)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.217s (1)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.004s (1)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 60.802s (9809)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.040s (25276)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 29.201s (2086)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 30.007s (1501)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 8.245s (428)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 10.025s (2073)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 10.022s (1658)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 10.599s (2086)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 10.510s (2086)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.047s (2086)
+[2022.05.29-21.49.22:951][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.013s (2081)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.019s (2086)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.002s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.182s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.047s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.453s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.083s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.039s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.068s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.138s (1)
+[2022.05.29-21.49.22:952][775]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.05.29-21.49.22:977][778]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.002687s to verify the EDL loading graph.
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000028
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.004594
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.05.29-21.49.23:102][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.05.29-21.49.23:103][793]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=746
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=22
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=2020
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=32.996315
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=1821
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=1866
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=785
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=2086
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=9.251110
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.622365
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.209452
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.001234
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.008179
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.011798
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.001648
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.781762
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=1.562898
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=5.015124
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=4849.950594
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.05.29-21.49.23:114][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=116.599556
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=50.641381
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=65.940917
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=3.593372
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000015
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=61.526878
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=29.202243
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=10.599026
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=18.268366
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.252973
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.003473
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.007105
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.001258
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =     10208
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =     10227
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.998142
+[2022.05.29-21.49.23:115][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.832698
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.165444
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.001858
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =        22
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =        22
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                            55.88                   0.00             0       4219.19
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      8.29                   8.29             0        398.67
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  7.58                   7.58             0         23.68
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               6.76                   6.76             0         90.39
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    4.46                   4.46             0          0.99
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    2.55                   2.55             0        304.54
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.15                   0.15             0          6.31
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.13                   0.13             0          2.70
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Audio (Inline)                                  0.03                   0.03             3          0.06
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.03                   0.03             0          0.06
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00            16        137.51
+[2022.05.29-21.49.23:116][794]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.05.29-21.49.23:132][795]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.05.29-21.49.23:132][795]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.05.29-21.49.23:132][795]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Hatchback\BP_Hatchback.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Hatchback\BP_Hatchback.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SUV\BP_SUV.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SUV\BP_SUV.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/StarterContent/Maps/StarterMap_BuiltData': Can't find file.
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.05.29-21.49.23:140][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Maps/Advanced_Lighting_BuiltData': Can't find file.
+[2022.05.29-21.49.23:141][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SportsCar\BP_SportsCar.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.49.23:141][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\SportsCar\BP_SportsCar.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.49.23:141][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Pickup\BP_Pickup.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.49.23:141][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\Pickup\BP_Pickup.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.49.23:141][796]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\BoxTruck\BP_BoxTruck.uasset: [Compiler] Input Axis Event references unknown Axis 'LookRight' for  InputAxis LookRight
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogBlueprint: Warning: [AssetLog] C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Content\VehicleVarietyPack\Blueprints\BoxTruck\BP_BoxTruck.uasset: [Compiler] InputAction Event references unknown Action 'Handbrake' for  InputAction Handbrake
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Showcase contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogReflectionCaptureComponent: Warning: /Game/IndustryPropsPack6/Maps/Overview contains a legacy UReflectionCaptureComponent and is being non-deterministically cooked - please resave the asset and recook.
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 36 warning(s)
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   
+[2022.05.29-21.49.23:151][797]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  66.11 seconds
+[2022.05.29-21.49.29:923][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.29-21.49.29:923][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.29-21.49.29:923][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.29-21.49.29:923][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.29-21.49.29:923][595]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.05.29-21.49.34:165][ 98]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.05.29-21.49.34:671][158]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.29-21.49.43:445][192]UATHelper: Packaging (Windows (64-bit)): Took 139.438819s to run UE4Editor-Cmd.exe, ExitCode=0
+[2022.05.29-21.49.43:452][193]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2022.05.29-21.49.43:460][194]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2022.05.29-21.49.43:570][207]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2022.05.29-21.49.44:172][277]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\BaseEditor.ini
+[2022.05.29-21.49.44:172][277]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2022.05.29-21.49.44:172][277]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.05.29-21.49.44:172][277]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2022.05.29-21.49.44:172][277]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\BaseLightmass.ini
+[2022.05.29-21.49.44:173][277]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\Category.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\Editor.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\Engine.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Unreal\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Config\DefaultEditor.ini
+[2022.05.29-21.49.44:180][278]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.05.29-21.49.44:725][341]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Saved\StagedBuilds\WindowsNoEditor
+[2022.05.29-21.49.44:761][345]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2022.05.29-21.49.45:207][396]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2022.05.29-21.49.55:327][491]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2022.05.29-21.50.05:341][337]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2022.05.29-21.50.15:356][143]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2022.05.29-21.50.24:248][989]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2022.05.29-21.50.24:248][989]UATHelper: Packaging (Windows (64-bit)): Output from: C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\CombatMap_LD.uproject C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Saved\StagedBuilds\WindowsNoEditor\CombatMap_LD\Content\Paks\CombatMap_LD-WindowsNoEditor.pak -create="C:\Users\fcbal\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Unreal+UE_4.27\PakList_CombatMap_LD-WindowsNoEditor.txt" -cryptokeys=C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Saved\Cooked\WindowsNoEditor\CombatMap_LD\Metadata\Crypto.json -secondaryOrder=C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows -compressionformats=Oodle -compressmethod=Kraken -compresslevel=3  -multiprocess -abslog="C:\Users\fcbal\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Unreal+UE_4.27\UnrealPak-CombatMap_LD-WindowsNoEditor-2022.05.29-23.49.45.txt" -compressionblocksize=256KB
+[2022.05.29-21.50.24:248][989]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.05.29-21.50.24:248][989]UATHelper: Packaging (Windows (64-bit)):   OodleDataCompression: Display: Oodle v2.9.0 initializing with method=Kraken, level=3=Fast
+[2022.05.29-21.50.24:248][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2022.05.29-21.50.24:248][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\fcbal\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Unreal+UE_4.27\PakList_CombatMap_LD-WindowsNoEditor.txt
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 5826 entries to add to pak file.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 5826 files in 0.03s.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Saved\StagedBuilds\WindowsNoEditor\CombatMap_LD\Content\Paks\CombatMap_LD-WindowsNoEditor.pak.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/fcbal/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 0 [Oodle] : 3956 files, 5052664744 -> 1528079006 bytes
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 1 [Zlib] : 61 files, 3957106 -> 1231020 bytes
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 2 [None] : 1809 files, 60072365 -> 60072365 bytes
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 5826 files, 1593347508 bytes total, time 31.51s.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 179958 bytes
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 95255 bytes
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 195818 bytes
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 30.24% of original size. Compressed Size 1529310026 bytes, Original Size 5056621850 bytes.
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 31.830621 seconds
+[2022.05.29-21.50.24:249][989]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2022.05.29-21.50.24:261][990]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\fcbal\Documents\GitHub\CombatMap-LD\CombatMap_LD\Saved\StagedBuilds\WindowsNoEditor
+[2022.05.29-21.50.26:279][226]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2022.05.29-21.50.26:286][227]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2022.05.29-21.50.26:286][227]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2022.05.29-21.50.26:286][227]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2022.05.29-21.50.26:286][227]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/fcbal/Desktop/Practice2_RafelBrau_PolCasaú_AlbertRobles
+[2022.05.29-21.50.30:602][721]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2022.05.29-21.50.30:602][721]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2022.05.29-21.50.30:663][728]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.05.29-21.50.36:661][353]LogSlate: Window 'Output Log' being destroyed
+[2022.05.29-21.50.36:669][353]LogSlate: Window 'Output Log' being destroyed
+[2022.05.29-21.51.42:243][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.05.29-21.51.42:459][938]LogSavePackage: Moving 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/FirstPersonExampleMap079973B74C3198E55D5A3BB1EC8DDF33.tmp' to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.05.29-21.51.53:600][938]LogSavePackage: Moving 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/FirstPersonExampleMap_BuiltData4567D815484BD0E96538C8A4A1D1FA7B.tmp' to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.05.29-21.51.56:362][938]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-21.51.56:362][938]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.05.29-21.51.56:395][938]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.05.29-21.51.56:712][946]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.29-21.51.57:641][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.29-21.51.57:809][ 46]LogSlate: Window 'CombatMap_LD - Unreal Editor' being destroyed
+[2022.05.29-21.51.58:799][ 47]Cmd: QUIT_EDITOR
+[2022.05.29-21.51.58:835][ 47]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.29-21.51.58:924][ 47]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.29-21.51.59:228][ 47]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.29-21.51.59:229][ 47]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.29-21.51.59:239][ 47]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.05.29-21.51.59:306][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.29-21.51.59:309][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.29-21.51.59:409][ 47]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.29-21.51.59:422][ 47]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.29-21.51.59:449][ 47]LogExit: Preparing to exit.
+[2022.05.29-21.52.00:434][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.05.29-21.52.01:265][ 47]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-21.52.01:333][ 47]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-21.52.01:333][ 47]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-21.52.01:337][ 47]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-21.52.02:631][ 47]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.29-21.52.03:431][ 47]LogExit: Editor shut down
+[2022.05.29-21.52.03:444][ 47]LogExit: Transaction tracking system shut down
+[2022.05.29-21.52.07:116][ 47]LogExit: Object subsystem successfully closed.
+[2022.05.29-21.52.07:152][ 47]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.29-21.52.07:152][ 47]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.29-21.52.07:152][ 47]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.29-21.52.07:159][ 47]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.29-21.52.07:159][ 47]LogShaderCompilers: Display: ================================================
+[2022.05.29-21.52.07:324][ 47]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.29-21.52.10:841][ 47]LogModuleManager: Shutting down and abandoning module UATHelper (874)
+[2022.05.29-21.52.10:841][ 47]LogModuleManager: Shutting down and abandoning module LauncherServices (872)
+[2022.05.29-21.52.10:843][ 47]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.05.29-21.52.10:843][ 47]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2022.05.29-21.52.10:886][ 47]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2022.05.29-21.52.10:886][ 47]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2022.05.29-21.52.10:886][ 47]LogModuleManager: Shutting down and abandoning module SceneOutliner (862)
+[2022.05.29-21.52.10:901][ 47]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.05.29-21.52.10:903][ 47]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.05.29-21.52.10:915][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.05.29-21.52.10:915][ 47]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.05.29-21.52.10:936][ 47]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.05.29-21.52.10:936][ 47]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.05.29-21.52.10:936][ 47]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.05.29-21.52.10:987][ 47]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.05.29-21.52.11:008][ 47]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.05.29-21.52.11:008][ 47]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.05.29-21.52.11:008][ 47]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.05.29-21.52.11:027][ 47]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.05.29-21.52.11:028][ 47]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.05.29-21.52.11:028][ 47]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.05.29-21.52.11:055][ 47]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.05.29-21.52.11:066][ 47]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.05.29-21.52.11:082][ 47]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.05.29-21.52.11:094][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.05.29-21.52.11:094][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.05.29-21.52.11:094][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.05.29-21.52.11:094][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.05.29-21.52.11:094][ 47]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.05.29-21.52.11:104][ 47]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.05.29-21.52.11:109][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.05.29-21.52.11:122][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (796)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (794)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (792)
+[2022.05.29-21.52.11:123][ 47]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2022.05.29-21.52.11:124][ 47]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.05.29-21.52.11:124][ 47]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.05.29-21.52.11:124][ 47]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.05.29-21.52.11:125][ 47]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.05.29-21.52.11:125][ 47]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.05.29-21.52.11:133][ 47]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.05.29-21.52.11:133][ 47]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.05.29-21.52.11:133][ 47]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.05.29-21.52.11:140][ 47]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.05.29-21.52.11:140][ 47]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.05.29-21.52.11:147][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.05.29-21.52.11:170][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.05.29-21.52.11:170][ 47]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.05.29-21.52.11:170][ 47]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.05.29-21.52.11:170][ 47]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.05.29-21.52.11:171][ 47]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.05.29-21.52.11:171][ 47]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.05.29-21.52.11:171][ 47]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.05.29-21.52.11:194][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.05.29-21.52.11:196][ 47]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.05.29-21.52.11:197][ 47]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.05.29-21.52.11:216][ 47]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.05.29-21.52.11:221][ 47]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.05.29-21.52.11:221][ 47]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.05.29-21.52.11:225][ 47]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.05.29-21.52.11:225][ 47]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2022.05.29-21.52.11:376][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2022.05.29-21.52.11:376][ 47]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2022.05.29-21.52.11:376][ 47]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2022.05.29-21.52.11:376][ 47]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2022.05.29-21.52.11:376][ 47]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2022.05.29-21.52.11:416][ 47]MemoryProfiler: Shutdown
+[2022.05.29-21.52.11:417][ 47]NetworkingProfiler: Shutdown
+[2022.05.29-21.52.11:417][ 47]LoadingProfiler: Shutdown
+[2022.05.29-21.52.11:418][ 47]TimingProfiler: Shutdown
+[2022.05.29-21.52.11:434][ 47]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2022.05.29-21.52.11:452][ 47]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2022.05.29-21.52.11:452][ 47]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2022.05.29-21.52.11:457][ 47]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2022.05.29-21.52.11:476][ 47]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2022.05.29-21.52.11:477][ 47]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2022.05.29-21.52.11:497][ 47]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2022.05.29-21.52.11:502][ 47]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2022.05.29-21.52.11:502][ 47]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2022.05.29-21.52.11:503][ 47]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2022.05.29-21.52.11:503][ 47]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2022.05.29-21.52.11:514][ 47]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2022.05.29-21.52.11:514][ 47]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2022.05.29-21.52.11:514][ 47]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2022.05.29-21.52.11:521][ 47]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2022.05.29-21.52.11:521][ 47]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2022.05.29-21.52.11:521][ 47]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2022.05.29-21.52.11:528][ 47]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2022.05.29-21.52.11:534][ 47]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2022.05.29-21.52.11:546][ 47]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2022.05.29-21.52.11:546][ 47]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2022.05.29-21.52.11:557][ 47]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2022.05.29-21.52.11:591][ 47]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2022.05.29-21.52.11:603][ 47]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2022.05.29-21.52.11:623][ 47]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2022.05.29-21.52.11:639][ 47]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2022.05.29-21.52.11:658][ 47]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2022.05.29-21.52.11:682][ 47]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2022.05.29-21.52.11:693][ 47]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2022.05.29-21.52.11:718][ 47]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2022.05.29-21.52.11:744][ 47]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2022.05.29-21.52.11:744][ 47]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2022.05.29-21.52.11:745][ 47]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2022.05.29-21.52.11:773][ 47]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2022.05.29-21.52.11:773][ 47]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2022.05.29-21.52.11:789][ 47]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2022.05.29-21.52.11:790][ 47]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2022.05.29-21.52.11:790][ 47]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2022.05.29-21.52.11:797][ 47]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2022.05.29-21.52.11:835][ 47]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2022.05.29-21.52.11:835][ 47]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2022.05.29-21.52.11:847][ 47]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2022.05.29-21.52.11:847][ 47]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2022.05.29-21.52.11:871][ 47]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2022.05.29-21.52.11:871][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2022.05.29-21.52.11:881][ 47]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2022.05.29-21.52.11:888][ 47]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2022.05.29-21.52.11:898][ 47]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2022.05.29-21.52.11:918][ 47]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2022.05.29-21.52.11:919][ 47]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2022.05.29-21.52.11:927][ 47]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2022.05.29-21.52.11:949][ 47]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2022.05.29-21.52.11:956][ 47]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2022.05.29-21.52.12:066][ 47]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2022.05.29-21.52.12:079][ 47]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2022.05.29-21.52.12:079][ 47]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2022.05.29-21.52.12:130][ 47]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2022.05.29-21.52.12:131][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2022.05.29-21.52.12:131][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2022.05.29-21.52.12:131][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.29-21.52.12:131][ 47]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2022.05.29-21.52.12:136][ 47]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2022.05.29-21.52.12:136][ 47]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2022.05.29-21.52.12:136][ 47]LogModuleManager: Shutting down and abandoning module ScreenshotTools (586)
+[2022.05.29-21.52.12:136][ 47]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2022.05.29-21.52.12:136][ 47]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2022.05.29-21.52.12:150][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2022.05.29-21.52.12:150][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2022.05.29-21.52.12:150][ 47]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2022.05.29-21.52.12:156][ 47]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2022.05.29-21.52.12:156][ 47]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2022.05.29-21.52.12:156][ 47]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2022.05.29-21.52.12:163][ 47]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2022.05.29-21.52.12:163][ 47]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2022.05.29-21.52.12:163][ 47]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2022.05.29-21.52.12:163][ 47]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2022.05.29-21.52.12:171][ 47]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2022.05.29-21.52.12:171][ 47]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2022.05.29-21.52.12:171][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2022.05.29-21.52.12:171][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2022.05.29-21.52.12:171][ 47]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2022.05.29-21.52.12:171][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2022.05.29-21.52.12:180][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2022.05.29-21.52.12:180][ 47]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2022.05.29-21.52.12:180][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2022.05.29-21.52.12:180][ 47]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2022.05.29-21.52.12:180][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (540)
+[2022.05.29-21.52.12:180][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (538)
+[2022.05.29-21.52.12:184][ 47]LogModuleManager: Shutting down and abandoning module UObjectPlugin (536)
+[2022.05.29-21.52.12:184][ 47]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (534)
+[2022.05.29-21.52.12:200][ 47]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (532)
+[2022.05.29-21.52.12:205][ 47]LogModuleManager: Shutting down and abandoning module PluginUtils (530)
+[2022.05.29-21.52.12:212][ 47]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (528)
+[2022.05.29-21.52.12:231][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (526)
+[2022.05.29-21.52.12:231][ 47]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (524)
+[2022.05.29-21.52.12:250][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (522)
+[2022.05.29-21.52.12:250][ 47]LogModuleManager: Shutting down and abandoning module GitSourceControl (520)
+[2022.05.29-21.52.12:266][ 47]LogModuleManager: Shutting down and abandoning module SourceControl (519)
+[2022.05.29-21.52.12:271][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (516)
+[2022.05.29-21.52.12:271][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (514)
+[2022.05.29-21.52.12:271][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (512)
+[2022.05.29-21.52.12:271][ 47]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (510)
+[2022.05.29-21.52.12:272][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (508)
+[2022.05.29-21.52.12:272][ 47]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (506)
+[2022.05.29-21.52.12:272][ 47]LogModuleManager: Shutting down and abandoning module MotoSynth (504)
+[2022.05.29-21.52.12:272][ 47]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (502)
+[2022.05.29-21.52.12:272][ 47]LogOpenImageDenoise: OIDN shutting down
+[2022.05.29-21.52.12:272][ 47]LogModuleManager: Shutting down and abandoning module MeshConversion (500)
+[2022.05.29-21.52.12:278][ 47]LogModuleManager: Shutting down and abandoning module DynamicMesh (498)
+[2022.05.29-21.52.12:290][ 47]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (496)
+[2022.05.29-21.52.12:308][ 47]LogModuleManager: Shutting down and abandoning module GeometricObjects (494)
+[2022.05.29-21.52.12:312][ 47]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (492)
+[2022.05.29-21.52.12:350][ 47]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (490)
+[2022.05.29-21.52.12:350][ 47]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (489)
+[2022.05.29-21.52.12:350][ 47]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (486)
+[2022.05.29-21.52.12:351][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (484)
+[2022.05.29-21.52.12:351][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (482)
+[2022.05.29-21.52.12:351][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (480)
+[2022.05.29-21.52.12:351][ 47]LogModuleManager: Shutting down and abandoning module FractureEditor (478)
+[2022.05.29-21.52.12:362][ 47]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (476)
+[2022.05.29-21.52.12:362][ 47]LogModuleManager: Shutting down and abandoning module ChaosNiagara (474)
+[2022.05.29-21.52.12:365][ 47]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (473)
+[2022.05.29-21.52.12:365][ 47]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (470)
+[2022.05.29-21.52.12:376][ 47]LogModuleManager: Shutting down and abandoning module BackChannel (468)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (466)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module AutomationUtils (464)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module AlembicImporter (462)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module AlembicLibrary (461)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module GeometryCache (460)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (459)
+[2022.05.29-21.52.12:385][ 47]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (454)
+[2022.05.29-21.52.12:389][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (452)
+[2022.05.29-21.52.12:397][ 47]LogModuleManager: Shutting down and abandoning module PluginBrowser (450)
+[2022.05.29-21.52.12:411][ 47]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (448)
+[2022.05.29-21.52.12:411][ 47]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (446)
+[2022.05.29-21.52.12:418][ 47]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (444)
+[2022.05.29-21.52.12:428][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (442)
+[2022.05.29-21.52.12:428][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeys (440)
+[2022.05.29-21.52.12:428][ 47]LogModuleManager: Shutting down and abandoning module CurveEditorTools (438)
+[2022.05.29-21.52.12:434][ 47]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2022.05.29-21.52.12:434][ 47]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2022.05.29-21.52.12:455][ 47]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2022.05.29-21.52.12:455][ 47]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2022.05.29-21.52.12:455][ 47]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2022.05.29-21.52.12:462][ 47]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2022.05.29-21.52.12:462][ 47]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2022.05.29-21.52.13:355][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (422)
+[2022.05.29-21.52.13:355][ 47]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2022.05.29-21.52.13:355][ 47]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2022.05.29-21.52.13:355][ 47]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2022.05.29-21.52.13:383][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2022.05.29-21.52.13:394][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2022.05.29-21.52.13:397][ 47]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2022.05.29-21.52.13:408][ 47]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2022.05.29-21.52.13:408][ 47]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2022.05.29-21.52.13:408][ 47]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2022.05.29-21.52.13:419][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2022.05.29-21.52.13:419][ 47]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2022.05.29-21.52.13:419][ 47]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2022.05.29-21.52.13:423][ 47]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2022.05.29-21.52.13:423][ 47]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2022.05.29-21.52.13:524][ 47]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2022.05.29-21.52.13:634][ 47]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2022.05.29-21.52.13:634][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2022.05.29-21.52.13:634][ 47]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (384)
+[2022.05.29-21.52.13:634][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2022.05.29-21.52.13:634][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (380)
+[2022.05.29-21.52.13:639][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (378)
+[2022.05.29-21.52.13:639][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (376)
+[2022.05.29-21.52.13:644][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (374)
+[2022.05.29-21.52.13:644][ 47]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.05.29-21.52.13:644][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (372)
+[2022.05.29-21.52.13:644][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (370)
+[2022.05.29-21.52.13:644][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (368)
+[2022.05.29-21.52.13:662][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (366)
+[2022.05.29-21.52.13:662][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapController (364)
+[2022.05.29-21.52.13:666][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (362)
+[2022.05.29-21.52.13:666][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAR (360)
+[2022.05.29-21.52.13:666][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharing (358)
+[2022.05.29-21.52.13:666][ 47]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (356)
+[2022.05.29-21.52.13:680][ 47]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2022.05.29-21.52.13:680][ 47]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2022.05.29-21.52.13:717][ 47]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2022.05.29-21.52.13:726][ 47]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2022.05.29-21.52.13:755][ 47]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2022.05.29-21.52.13:755][ 47]LogModuleManager: Shutting down and abandoning module DataValidation (344)
+[2022.05.29-21.52.13:755][ 47]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (342)
+[2022.05.29-21.52.13:761][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (340)
+[2022.05.29-21.52.13:761][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimation (338)
+[2022.05.29-21.52.13:761][ 47]LogModuleManager: Shutting down and abandoning module GameplayCameras (336)
+[2022.05.29-21.52.13:761][ 47]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2022.05.29-21.52.13:773][ 47]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2022.05.29-21.52.13:824][ 47]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2022.05.29-21.52.13:846][ 47]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2022.05.29-21.52.13:857][ 47]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2022.05.29-21.52.13:867][ 47]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2022.05.29-21.52.13:918][ 47]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2022.05.29-21.52.13:918][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2022.05.29-21.52.13:918][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2022.05.29-21.52.13:918][ 47]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2022.05.29-21.52.13:945][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2022.05.29-21.52.13:945][ 47]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2022.05.29-21.52.13:952][ 47]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (310)
+[2022.05.29-21.52.13:964][ 47]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2022.05.29-21.52.13:997][ 47]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2022.05.29-21.52.13:997][ 47]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2022.05.29-21.52.13:997][ 47]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2022.05.29-21.52.13:997][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2022.05.29-21.52.13:997][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2022.05.29-21.52.13:998][ 47]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2022.05.29-21.52.14:004][ 47]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2022.05.29-21.52.14:004][ 47]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2022.05.29-21.52.14:004][ 47]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2022.05.29-21.52.14:020][ 47]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2022.05.29-21.52.14:020][ 47]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2022.05.29-21.52.14:021][ 47]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2022.05.29-21.52.14:039][ 47]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2022.05.29-21.52.14:048][ 47]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2022.05.29-21.52.14:063][ 47]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2022.05.29-21.52.14:086][ 47]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2022.05.29-21.52.14:086][ 47]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2022.05.29-21.52.14:110][ 47]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2022.05.29-21.52.14:110][ 47]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2022.05.29-21.52.14:137][ 47]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2022.05.29-21.52.14:137][ 47]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2022.05.29-21.52.14:147][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2022.05.29-21.52.14:147][ 47]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2022.05.29-21.52.14:153][ 47]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2022.05.29-21.52.14:153][ 47]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2022.05.29-21.52.14:153][ 47]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2022.05.29-21.52.14:153][ 47]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2022.05.29-21.52.14:160][ 47]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2022.05.29-21.52.14:160][ 47]LogModuleManager: Shutting down and abandoning module Core (248)
+[2022.05.29-21.52.14:160][ 47]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2022.05.29-21.52.14:188][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2022.05.29-21.52.14:199][ 47]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2022.05.29-21.52.14:201][ 47]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2022.05.29-21.52.14:226][ 47]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2022.05.29-21.52.14:244][ 47]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2022.05.29-21.52.14:244][ 47]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2022.05.29-21.52.14:248][ 47]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2022.05.29-21.52.14:265][ 47]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2022.05.29-21.52.14:268][ 47]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2022.05.29-21.52.14:268][ 47]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2022.05.29-21.52.14:284][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2022.05.29-21.52.14:294][ 47]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2022.05.29-21.52.14:355][ 47]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2022.05.29-21.52.14:363][ 47]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2022.05.29-21.52.14:368][ 47]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2022.05.29-21.52.14:368][ 47]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2022.05.29-21.52.14:379][ 47]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2022.05.29-21.52.14:381][ 47]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2022.05.29-21.52.14:417][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2022.05.29-21.52.14:427][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2022.05.29-21.52.14:434][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2022.05.29-21.52.14:448][ 47]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2022.05.29-21.52.14:466][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2022.05.29-21.52.14:471][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2022.05.29-21.52.14:471][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2022.05.29-21.52.14:471][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2022.05.29-21.52.14:471][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2022.05.29-21.52.14:471][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2022.05.29-21.52.14:496][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2022.05.29-21.52.14:496][ 47]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2022.05.29-21.52.14:496][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2022.05.29-21.52.14:505][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2022.05.29-21.52.14:505][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2022.05.29-21.52.14:505][ 47]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2022.05.29-21.52.14:508][ 47]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2022.05.29-21.52.14:510][ 47]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2022.05.29-21.52.14:510][ 47]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2022.05.29-21.52.14:514][ 47]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2022.05.29-21.52.14:539][ 47]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2022.05.29-21.52.14:547][ 47]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2022.05.29-21.52.14:548][ 47]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2022.05.29-21.52.14:548][ 47]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2022.05.29-21.52.14:549][ 47]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2022.05.29-21.52.14:582][ 47]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2022.05.29-21.52.14:588][ 47]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2022.05.29-21.52.14:589][ 47]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2022.05.29-21.52.14:589][ 47]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2022.05.29-21.52.14:598][ 47]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2022.05.29-21.52.14:606][ 47]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2022.05.29-21.52.14:607][ 47]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2022.05.29-21.52.14:607][ 47]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2022.05.29-21.52.14:607][ 47]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2022.05.29-21.52.14:617][ 47]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2022.05.29-21.52.14:657][ 47]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2022.05.29-21.52.14:658][ 47]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2022.05.29-21.52.14:658][ 47]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2022.05.29-21.52.14:658][ 47]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2022.05.29-21.52.14:658][ 47]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2022.05.29-21.52.14:663][ 47]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.05.29-21.52.14:663][ 47]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.05.29-21.52.14:668][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.05.29-21.52.14:678][ 47]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.05.29-21.52.14:683][ 47]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.05.29-21.52.14:694][ 47]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.05.29-21.52.14:704][ 47]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.05.29-21.52.14:704][ 47]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.05.29-21.52.14:707][ 47]LogHMD: Freeing OpenVRDLLHandle.
+[2022.05.29-21.52.14:707][ 47]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.05.29-21.52.14:707][ 47]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2022.05.29-21.52.14:712][ 47]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.29-21.52.14:712][ 47]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2022.05.29-21.52.14:712][ 47]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2022.05.29-21.52.14:717][ 47]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2022.05.29-21.52.14:717][ 47]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2022.05.29-21.52.14:737][ 47]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.05.29-21.52.14:737][ 47]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.05.29-21.52.14:742][ 47]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.05.29-21.52.14:743][ 47]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.05.29-21.52.14:743][ 47]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.05.29-21.52.14:780][ 47]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.05.29-21.52.14:792][ 47]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.05.29-21.52.14:834][ 47]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.05.29-21.52.14:843][ 47]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.05.29-21.52.14:843][ 47]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8C515151-48E4-620D-710E-07B82D1101F1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=0db16e314861a91b90f7259133fa69d4%7C3fcda7b6da9947268de94859ba42a85d%7C2007ef3e-273f-4d32-bb2f-1e6184a3a792&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.05.29-21.52.14:843][ 47]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.05.29-21.52.14:851][ 47]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.05.29-21.52.14:868][ 47]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.05.29-21.52.14:878][ 47]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.05.29-21.52.14:880][ 47]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2022.05.29-21.52.14:880][ 47]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.05.29-21.52.14:880][ 47]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.05.29-21.52.14:880][ 47]LogModuleManager: Shutting down and abandoning module PixWinPlugin (64)
+[2022.05.29-21.52.14:880][ 47]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.05.29-21.52.14:880][ 47]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2022.05.29-21.52.14:889][ 47]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2022.05.29-21.52.14:890][ 47]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2022.05.29-21.52.14:896][ 47]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.05.29-21.52.14:896][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.05.29-21.52.14:896][ 47]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.05.29-21.52.14:896][ 47]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.05.29-21.52.14:918][ 47]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.05.29-21.52.14:925][ 47]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.05.29-21.52.14:925][ 47]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.05.29-21.52.14:925][ 47]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2022.05.29-21.52.14:929][ 47]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.05.29-21.52.14:939][ 47]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.05.29-21.52.14:946][ 47]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.05.29-21.52.14:950][ 47]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.05.29-21.52.14:980][ 47]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.05.29-21.52.15:040][ 47]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.05.29-21.52.15:057][ 47]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.05.29-21.52.15:057][ 47]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.05.29-21.52.15:059][ 47]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.05.29-21.52.15:078][ 47]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.05.29-21.52.15:078][ 47]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.05.29-21.52.15:094][ 47]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.05.29-21.52.15:094][ 47]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.05.29-21.52.15:094][ 47]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.05.29-21.52.15:097][ 47]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.05.29-21.52.15:097][ 47]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.05.29-21.52.15:108][ 47]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.05.29-21.52.15:111][ 47]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.05.29-21.52.15:127][ 47]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.05.29-21.52.15:127][ 47]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.05.29-21.52.15:201][ 47]LogD3D11RHI: Shutdown
+[2022.05.29-21.52.15:201][ 47]LogD3D11RHI: CleanupD3DDevice
+[2022.05.29-21.52.15:553][ 47]LogExit: Exiting.
+[2022.05.29-21.52.15:567][ 47]Log file closed, 05/29/22 23:52:15
