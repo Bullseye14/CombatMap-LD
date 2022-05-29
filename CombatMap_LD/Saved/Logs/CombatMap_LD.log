@@ -899,3 +899,1084 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.29-21.32.22:657][342]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
 [2022.05.29-21.32.22:864][342]LogEditorBuildUtils: Build time 0:29
 [2022.05.29-21.32.23:004][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.05.29-21.37.25:650][530]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{71885ea4-07cc-44bc-b63d-4319e3a22807}.
+[2022.05.29-21.37.25:650][530]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.29-21.37.25:671][530]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.29-21.37.25:671][530]LogAudioMixer: Display: 1: FrontRight
+[2022.05.29-21.39.59:604][635]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7cf472a1-3bcd-4c92-b3dc-2576a88a36b0}.
+[2022.05.29-21.39.59:900][635]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.29-21.39.59:914][635]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.29-21.39.59:914][635]LogAudioMixer: Display: 1: FrontRight
+[2022.05.29-21.45.36:498][684]Job is a success!
+[2022.05.29-21.45.36:887][685]LogSlate: Took 0.006233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.076s
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:      Indirection Texture 16x32x16 = 0.0Mb
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:      BrickData (all levels) 2.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:      Bricks at depth
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:          1: 3.3% covering 9.4% of volume
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:          2: 96.1% covering 4.2% of volume
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:      Bricks in each level
+[2022.05.29-21.45.37:697][685]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 361 bricks 	 100.0% (Persistent Level)
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight22 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight25 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight41 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight30 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight24 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight35 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight28 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight34 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight33 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight42 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:155][685]LightingResults: Warning: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:156][685]LightingResults: Warning: PointLight27 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:156][685]LightingResults: Warning: PointLight32 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:156][685]LightingResults: Warning: PointLight36 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:156][685]LightingResults: Warning: PointLight19 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.45.48:156][685]LightingResults: Warning: PointLight39 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.05.29-21.46.09:017][685]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:082][685]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:082][685]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:082][685]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:082][685]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:082][685]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:083][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_14 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_15 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_16 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_17 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_18 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: SkyOcclusion0_19 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:084][685]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:084][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: SkyOcclusion0_20 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: SkyOcclusion0_21 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: HQ_Lightmap0_21 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: SkyOcclusion0_22 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: HQ_Lightmap0_22 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:085][685]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:085][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: SkyOcclusion0_23 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: HQ_Lightmap0_23 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: SkyOcclusion0_24 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: HQ_Lightmap0_24 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: SkyOcclusion0_25 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: HQ_Lightmap0_25 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: SkyOcclusion0_26 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTexture: Display: Building textures: HQ_Lightmap0_26 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:086][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_27 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_27 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_28 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_28 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_29 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_29 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_30 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_30 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_31 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_31 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_32 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_32 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_33 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_33 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_34 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_34 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_35 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: HQ_Lightmap0_35 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:087][685]LogTexture: Display: Building textures: SkyOcclusion0_36 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:087][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_36 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_37 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_37 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_38 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_38 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_39 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_39 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_40 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_40 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_41 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_41 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_42 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_42 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_43 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_43 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_44 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_44 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_45 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_45 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: SkyOcclusion0_46 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: HQ_Lightmap0_46 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:088][685]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_47 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_47 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_48 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_48 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_49 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_49 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_50 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_50 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_51 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_51 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_52 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_53 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_52 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_53 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_54 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_54 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_55 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_55 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: SkyOcclusion0_56 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:089][685]LogTexture: Display: Building textures: HQ_Lightmap0_56 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: SkyOcclusion0_57 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: HQ_Lightmap0_57 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: SkyOcclusion0_58 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: HQ_Lightmap0_58 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: SkyOcclusion0_59 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: HQ_Lightmap0_59 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: SkyOcclusion0_60 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: HQ_Lightmap0_60 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: SkyOcclusion0_61 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: HQ_Lightmap0_61 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: SkyOcclusion0_62 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:090][685]LogTexture: Display: Building textures: HQ_Lightmap0_62 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:090][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_63 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_63 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_64 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_64 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_65 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_65 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_66 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_66 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_67 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_67 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_68 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_68 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_69 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_69 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_70 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: HQ_Lightmap0_70 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:091][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:091][685]LogTexture: Display: Building textures: SkyOcclusion0_71 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_71 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_72 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_72 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_73 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_73 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_74 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_74 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_75 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_75 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_76 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_76 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_77 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_77 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_78 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_78 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_79 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: HQ_Lightmap0_79 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:092][685]LogTexture: Display: Building textures: SkyOcclusion0_80 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:092][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_80 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_81 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_81 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_82 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_82 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_83 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_83 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_83 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_84 (OODLE_AutoDXT, 2048X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_84 (OODLE_AutoDXT, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_84 (OODLE_DXT1, 2048X2048)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_85 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_85 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_85 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_86 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion0_87 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_86 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_86 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap0_87 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_0_87 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion1_88 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap1_88 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_1_88 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion1_89 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: LQ_Lightmap_1_89 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap1_89 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: SkyOcclusion1_90 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:093][685]LogTexture: Display: Building textures: HQ_Lightmap1_90 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:093][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_90 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_91 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_91 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_91 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_92 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_92 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_92 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_93 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_93 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_93 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_94 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_94 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_94 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_95 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_95 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_95 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_96 (OODLE_AutoDXT, 1024X512)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_96 (OODLE_AutoDXT, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_96 (OODLE_DXT1, 1024X1024)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: SkyOcclusion1_97 (OODLE_AutoDXT, 64X32)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: HQ_Lightmap1_97 (OODLE_AutoDXT, 64X64)
+[2022.05.29-21.46.09:094][685]LogTexture: Display: Building textures: LQ_Lightmap_1_97 (OODLE_DXT1, 64X64)
+[2022.05.29-21.46.09:094][685]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:035][685]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:036][685]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:036][685]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:446][685]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (BGRA8, 1024X1024)
+[2022.05.29-21.46.10:849][685]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:049][685]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:049][685]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:249][685]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:249][685]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:249][685]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:249][685]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:249][685]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:249][685]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:289][685]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:289][685]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:451][685]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:451][685]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:650][685]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X1024)
+[2022.05.29-21.46.11:651][685]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:651][685]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:651][685]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:651][685]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:851][685]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:851][685]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:851][685]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:851][685]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 1024X1024)
+[2022.05.29-21.46.11:851][685]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:050][685]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:050][685]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 1024X1024)
+[2022.05.29-21.46.12:050][685]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 1024X1024)
+[2022.05.29-21.46.12:050][685]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:051][685]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 1024X1024)
+[2022.05.29-21.46.12:251][685]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 1024X1024)
+[2022.05.29-21.46.12:251][685]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:251][685]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:251][685]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:251][685]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:455][685]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:455][685]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:455][685]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:455][685]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:455][685]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 1024X1024)
+[2022.05.29-21.46.12:455][685]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:653][685]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:653][685]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:653][685]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:653][685]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:854][685]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:854][685]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:855][685]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:855][685]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (BGRA8, 1024X1024)
+[2022.05.29-21.46.12:855][685]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:054][685]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:054][685]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:054][685]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:054][685]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:054][685]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:259][685]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:259][685]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:259][685]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:259][685]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:259][685]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:459][685]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:459][685]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:459][685]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:459][685]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 1024X1024)
+[2022.05.29-21.46.13:459][685]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:659][685]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:661][685]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:661][685]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:661][685]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:661][685]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (BGRA8, 1024X1024)
+[2022.05.29-21.46.13:860][685]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 1024X1024)
+[2022.05.29-21.46.13:860][685]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 1024X1024)
+[2022.05.29-21.46.13:860][685]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 1024X1024)
+[2022.05.29-21.46.13:860][685]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 1024X1024)
+[2022.05.29-21.46.13:860][685]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 1024X1024)
+[2022.05.29-21.46.14:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 1024X1024)
+[2022.05.29-21.46.14:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 1024X1024)
+[2022.05.29-21.46.14:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 1024X1024)
+[2022.05.29-21.46.14:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 1024X1024)
+[2022.05.29-21.46.14:261][685]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 1024X1024)
+[2022.05.29-21.46.14:261][685]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 1024X1024)
+[2022.05.29-21.46.14:261][685]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:261][685]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:261][685]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:661][685]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:661][685]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:662][685]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:662][685]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:662][685]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:862][685]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:862][685]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:862][685]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:863][685]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:863][685]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (BGRA8, 1024X1024)
+[2022.05.29-21.46.14:863][685]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:062][685]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:263][685]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:263][685]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:263][685]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:263][685]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:462][685]LogTexture: Display: Building textures: ShadowMapTexture2D_140 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:663][685]LogTexture: Display: Building textures: ShadowMapTexture2D_137 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:663][685]LogTexture: Display: Building textures: ShadowMapTexture2D_138 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:663][685]LogTexture: Display: Building textures: ShadowMapTexture2D_139 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:663][685]LogTexture: Display: Building textures: ShadowMapTexture2D_141 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:663][685]LogTexture: Display: Building textures: ShadowMapTexture2D_144 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:663][685]LogTexture: Display: Building textures: ShadowMapTexture2D_142 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:872][685]LogTexture: Display: Building textures: ShadowMapTexture2D_143 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:872][685]LogTexture: Display: Building textures: ShadowMapTexture2D_145 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:872][685]LogTexture: Display: Building textures: ShadowMapTexture2D_146 (BGRA8, 1024X1024)
+[2022.05.29-21.46.15:872][685]LogTexture: Display: Building textures: ShadowMapTexture2D_147 (G8, 1024X1024)
+[2022.05.29-21.46.15:872][685]LogTexture: Display: Building textures: ShadowMapTexture2D_149 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:075][685]LogTexture: Display: Building textures: ShadowMapTexture2D_148 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:076][685]LogTexture: Display: Building textures: ShadowMapTexture2D_150 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:076][685]LogTexture: Display: Building textures: ShadowMapTexture2D_151 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:076][685]LogTexture: Display: Building textures: ShadowMapTexture2D_152 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:076][685]LogTexture: Display: Building textures: ShadowMapTexture2D_153 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_154 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_155 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_158 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_156 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_320 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_159 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:296][685]LogTexture: Display: Building textures: ShadowMapTexture2D_157 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:495][685]LogTexture: Display: Building textures: ShadowMapTexture2D_322 (G8, 1024X1024)
+[2022.05.29-21.46.16:495][685]LogTexture: Display: Building textures: ShadowMapTexture2D_321 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:496][685]LogTexture: Display: Building textures: ShadowMapTexture2D_323 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:496][685]LogTexture: Display: Building textures: ShadowMapTexture2D_324 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:773][685]LogTexture: Display: Building textures: ShadowMapTexture2D_334 (BGRA8, 512X64)
+[2022.05.29-21.46.16:773][685]LogTexture: Display: Building textures: ShadowMapTexture2D_335 (G8, 32X32)
+[2022.05.29-21.46.16:773][685]LogTexture: Display: Building textures: ShadowMapTexture2D_325 (G8, 1024X1024)
+[2022.05.29-21.46.16:773][685]LogTexture: Display: Building textures: ShadowMapTexture2D_326 (G8, 1024X1024)
+[2022.05.29-21.46.16:773][685]LogTexture: Display: Building textures: ShadowMapTexture2D_327 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:773][685]LogTexture: Display: Building textures: ShadowMapTexture2D_329 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:774][685]LogTexture: Display: Building textures: ShadowMapTexture2D_328 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:976][685]LogTexture: Display: Building textures: ShadowMapTexture2D_332 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:976][685]LogTexture: Display: Building textures: ShadowMapTexture2D_330 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:976][685]LogTexture: Display: Building textures: ShadowMapTexture2D_331 (BGRA8, 1024X1024)
+[2022.05.29-21.46.16:976][685]LogTexture: Display: Building textures: ShadowMapTexture2D_333 (BGRA8, 1024X1024)
+[2022.05.29-21.46.20:267][685]Lightmass on ALBERT: 13:56 min total, 2.51 sec importing, 537 ms setup, 2:11 min photons, 11:41 min processing, 0 ms extra exporting [440/440 mappings]. Threads: 2:08:37 hours total, 1:21:39 hours processing.
+[2022.05.29-21.46.20:572][685]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 440 meshes in 187 LightmapResourceClusters (2.4 Meshes per cluster).
+[2022.05.29-21.46.21:903][685]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2022.05.29-21.46.22:157][685]LogStaticLightingSystem: Illumination: 14:28 min (21.0 sec encoding lightmaps, 7.79 sec encoding shadowmaps)
+[2022.05.29-21.46.22:159][685]LogStaticLightingSystem: Lightmap texture memory:  928.0 MB (928.0 MB streaming, 0.0 MB non-streaming), 194 textures
+[2022.05.29-21.46.22:159][685]LogStaticLightingSystem: Shadowmap texture memory: 824.2 MB (824.2 MB streaming, 0.0 MB non-streaming), 176 textures
+[2022.05.29-21.46.26:288][685]DumpUnbuiltLightIteractions
+[2022.05.29-21.46.26:288][685]Lights with unbuilt interactions: 0
+[2022.05.29-21.46.26:288][685]
+[2022.05.29-21.46.26:288][685]Primitives with unbuilt interactions: 0
+[2022.05.29-21.46.26:340][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.29-21.46.26:340][685]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.05.29-21.46.26:340][685]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.29-21.46.26:354][685]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.29-21.46.26:354][685]LogShaderCompilers: Display: ================================================
+[2022.05.29-21.46.26:736][685]LogTexture: Display: Building textures: NewReflectionComponentTextureD42736E3453AA3E7843684BD3207AA7A (BGRA8, 128X128)
+[2022.05.29-21.46.27:454][685]LogSlate: Took 0.047819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.29-21.46.27:778][686]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.05.29-21.46.27:830][686]MapCheck: New page: FirstPersonExampleMap - May 30, 2022, 1:46:27 AM
+[2022.05.29-21.46.28:083][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 296.26ms to complete.
+[2022.05.29-21.46.32:270][697]LogSlate: Window 'Message Log' being destroyed
+[2022.05.29-21.46.32:310][697]LogSlate: Window 'Message Log' being destroyed
+[2022.05.29-21.46.36:325][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.05.29-21.46.36:667][ 49]LogSavePackage: Moving 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/FirstPersonExampleMapD646EA1D442F9E5CA90FF2AE4A44B72C.tmp' to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.05.29-21.46.47:640][ 49]LogSavePackage: Moving 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Saved/FirstPersonExampleMap_BuiltDataE489C77B4704F237A4F1238D7E5E0E26.tmp' to 'C:/Users/fcbal/Documents/GitHub/CombatMap-LD/CombatMap_LD/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.05.29-21.46.49:422][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-21.46.49:422][ 49]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.05.29-21.46.49:439][ 49]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
